@@ -29,19 +29,30 @@ Improvements:
 - added a grand total "all resourses sum" number to the net production table
 - added a village building and resource field parser
 
+0.0.5
+Fixes:
+- fixed a bug where trade route frequency defaulted to 1 hour instead of a proper count
+- fixed a bug where various troops were listed at the wrong building when setting up queues
+- fixed a bug where hospital building was removed when applied template/sorting
+
+
+Improvements:
+- added a village templates menu where we can add, modify or delete templates. Doesnt work properly yet Delete is good.
+- right side menu res field type distribution now calculated by the parsed HTML data
+
 
 ---------------------------------------------------------
 Later releases:
 
 Errors found:
-- found an error where in the buildings menu the "sort to plan" deletes entries - need to check further
-- found a bug where trade routes are improperly processed if the frequency is under 1 hour
-
 
 Improvements still needed:
-- add a delete village template button
-- set the resource field type distribution on the right side from the parsed res field data
 - add an "inactive wh/granary fill time" table. Inactive means no new queues or parties, dont count those in, but calculate with trade routes and troops present
 - add a "troops in villages" page parser, calculate crop consumption per villa from that - !!!IMPORTANT!!! - multi tribe troops (+ animals) are possible, that could break shit
 - add a "time until accountwide negative crop" calculation from current net production + queues
 - add an option to select hero items to adjust troop production time - queue cost
+- add a farmlist parser. option to select "timer" route, select troop to that, by the income estimate how many rounds we sent
+- include map.sql data in the tool
+- add a farm visualized map
+- fix manual trade route yield calculations
+- add an optimal trade route calculator with village hopping. include option to count only still available merchants

@@ -459,6 +459,26 @@ all,Hero's Mansion,17,2561896,2452100,2561896,878364,10979:33:22,7,4,Equip hero 
 all,Hero's Mansion,18,4278367,4095008,4278367,1466868,18335:51:32,7,4,Equip hero items; capture oases,Yes,
 all,Hero's Mansion,19,7144873,6838664,7144873,2449670,30620:53:05,7,4,Equip hero items; capture oases,Yes,
 all,Hero's Mansion,20,11931938,11420569,11931938,4090950,51136:52:39,8,4,Equip hero items; capture oases,Yes,
+all,Hospital,1,320,280,420,180,2:00:00,3,4,Heals wounded troops after battle,Yes,
+all,Hospital,2,534,468,701,301,3:20:24,3,4,Heals wounded troops after battle,Yes,
+all,Hospital,3,892,781,1171,502,5:34:40,3,4,Heals wounded troops after battle,Yes,
+all,Hospital,4,1490,1304,1956,838,9:18:53,3,4,Heals wounded troops after battle,Yes,
+all,Hospital,5,2489,2178,3267,1400,15:33:21,3,4,Heals wounded troops after battle,Yes,
+all,Hospital,6,4157,3637,5455,2338,25:58:42,3,4,Heals wounded troops after battle,Yes,
+all,Hospital,7,6941,6074,9111,3905,43:23:02,3,4,Heals wounded troops after battle,Yes,
+all,Hospital,8,11592,10143,15215,6521,72:27:04,3,4,Heals wounded troops after battle,Yes,
+all,Hospital,9,19359,16939,25409,10889,120:59:36,3,4,Heals wounded troops after battle,Yes,
+all,Hospital,10,32329,28288,42432,18185,202:03:32,3,4,Heals wounded troops after battle,Yes,
+all,Hospital,11,53990,47241,70862,30369,337:26:18,3,4,Heals wounded troops after battle,Yes,
+all,Hospital,12,90164,78893,118340,50717,563:31:20,3,4,Heals wounded troops after battle,Yes,
+all,Hospital,13,150573,131752,197627,84697,941:04:56,3,4,Heals wounded troops after battle,Yes,
+all,Hospital,14,251457,220025,330038,141445,1571:36:27,3,4,Heals wounded troops after battle,Yes,
+all,Hospital,15,419934,367442,551163,236213,2624:35:04,3,4,Heals wounded troops after battle,Yes,
+all,Hospital,16,701289,613628,920442,394475,4383:03:23,3,4,Heals wounded troops after battle,Yes,
+all,Hospital,17,1171153,1024759,1537138,658773,7319:42:15,3,4,Heals wounded troops after battle,Yes,
+all,Hospital,18,1955825,1711347,2567020,1100152,12223:54:21,3,4,Heals wounded troops after battle,Yes,
+all,Hospital,19,3266228,2857949,4286924,1837253,20413:55:23,3,4,Heals wounded troops after battle,Yes,
+all,Hospital,20,5454600,4772775,7159163,3068213,34091:15:06,3,4,Heals wounded troops after battle,Yes,
 all,Sawmill,1,520,380,290,90,1:30:00,1,1,+5% wood production per level (max 5),Yes,5
 all,Sawmill,2,935,685,520,160,2:30:18,1,1,+5% wood production per level (max 5),Yes,5
 all,Sawmill,3,1685,1230,940,290,4:11:00,1,1,+5% wood production per level (max 5),Yes,5
@@ -474,16 +494,16 @@ all,Iron Foundry,2,360,810,920,215,2:30:18,1,1,+5% iron production per level (ma
 all,Iron Foundry,3,650,1460,1650,390,4:11:00,1,1,+5% iron production per level (max 5),Yes,5
 all,Iron Foundry,4,1165,2625,2975,700,6:59:10,1,1,+5% iron production per level (max 5),Yes,5
 all,Iron Foundry,5,2100,4725,5355,1260,11:40:01,1,1,+5% iron production per level (max 5),Yes,5
-all,Flour Mill,1,500,440,380,1240,1:30:00,1,1,+5% crop production per level (max 5),Yes,5
-all,Flour Mill,2,900,790,685,2230,2:30:18,1,1,+5% crop production per level (max 5),Yes,5
-all,Flour Mill,3,1620,1425,1230,4020,4:11:00,1,1,+5% crop production per level (max 5),Yes,5
-all,Flour Mill,4,2915,2565,2215,7230,6:59:10,1,1,+5% crop production per level (max 5),Yes,5
-all,Flour Mill,5,5250,4620,3990,13015,11:40:01,1,1,+5% crop production per level (max 5),Yes,5
-all,Bakery,1,1200,1480,870,1600,2:00:00,1,1,+5% crop production per level (max 5); needs Flour Mill 5,Yes,5
-all,Bakery,2,2160,2665,1565,2880,3:20:24,1,1,+5% crop production per level (max 5); needs Flour Mill 5,Yes,5
-all,Bakery,3,3890,4795,2820,5185,5:34:40,1,1,+5% crop production per level (max 5); needs Flour Mill 5,Yes,5
-all,Bakery,4,7000,8630,5075,9330,9:18:53,1,1,+5% crop production per level (max 5); needs Flour Mill 5,Yes,5
-all,Bakery,5,12595,15535,9135,16795,15:33:21,1,1,+5% crop production per level (max 5); needs Flour Mill 5,Yes,5
+all,Grain Mill,1,500,440,380,1240,1:30:00,1,1,+5% crop production per level (max 5),Yes,5
+all,Grain Mill,2,900,790,685,2230,2:30:18,1,1,+5% crop production per level (max 5),Yes,5
+all,Grain Mill,3,1620,1425,1230,4020,4:11:00,1,1,+5% crop production per level (max 5),Yes,5
+all,Grain Mill,4,2915,2565,2215,7230,6:59:10,1,1,+5% crop production per level (max 5),Yes,5
+all,Grain Mill,5,5250,4620,3990,13015,11:40:01,1,1,+5% crop production per level (max 5),Yes,5
+all,Bakery,1,1200,1480,870,1600,2:00:00,1,1,+5% crop production per level (max 5); needs Grain Mill 5,Yes,5
+all,Bakery,2,2160,2665,1565,2880,3:20:24,1,1,+5% crop production per level (max 5); needs Grain Mill 5,Yes,5
+all,Bakery,3,3890,4795,2820,5185,5:34:40,1,1,+5% crop production per level (max 5); needs Grain Mill 5,Yes,5
+all,Bakery,4,7000,8630,5075,9330,9:18:53,1,1,+5% crop production per level (max 5); needs Grain Mill 5,Yes,5
+all,Bakery,5,12595,15535,9135,16795,15:33:21,1,1,+5% crop production per level (max 5); needs Grain Mill 5,Yes,5
 all,Great Warehouse,1,650,400,750,200,1:00:00,2,0,Triple-capacity warehouse (capital only with artifact),Yes,
 all,Great Warehouse,2,1085,668,1252,334,1:40:12,2,0,Triple-capacity warehouse (capital only with artifact),Yes,
 all,Great Warehouse,3,1812,1115,2091,557,2:47:20,3,0,Triple-capacity warehouse (capital only with artifact),Yes,
